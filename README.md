@@ -1,2 +1,2 @@
 # Calculator-App
-A Calculator App with a Graphical User Interface (GUI) built using Java AWT and Swing libraries.
+This is a Calculator Application with a Graphical User Interface (GUI) built using Java AWT and Swing libraries. It features an intuitive and visually appealing interface styled to resemble the iPhone calculator, with well-organized buttons for numbers and operations. The calculator allows users to input numbers, perform various mathematical operations such as addition, subtraction, multiplication, division, percentage, and square root, and instantly view results on the display through responsive button clicks.  
